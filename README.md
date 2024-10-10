@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Lead Frontend Developer currently working on [keldoc](https://www.keldoc.com/) at [NEHS DIGITAL](https://www.nehs-digital.com/).
+I'm a Lead Frontend Developer currently working on [keldoc](https://www.keldoc.com/) at [Enovacom](https://www.enovacom.com/).
 
 Contact me on [LinkedIn](https://linkedin.com/in/kchlebek).
 
@@ -18,7 +18,7 @@ Contact me on [LinkedIn](https://linkedin.com/in/kchlebek).
 
 #### Tech stack
 
-T-shaped skills. At NEHS DIGITAL I mostly use Angular, but I know various frameworks and languages.
+T-shaped skills. At Enovacom I mostly use Angular, but I know various frameworks and languages.
 Here are some of them:
 
 <p align="left">
